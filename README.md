@@ -31,7 +31,5 @@ Unlock the secrets behind the world’s top-performing companies! This project *
 - Geographical revenue hotspots  
 - Trends in revenue growth for 2024-25  
 
----
 
-**Get started** by cloning the repo, running the notebook, and exploring the data visualizations to gain meaningful insights from the Fortune 500 dataset!
 
