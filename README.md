@@ -18,18 +18,9 @@ Unlock the secrets behind the world’s top-performing companies! This project *
 - **Matplotlib & Seaborn** – Interactive, professional-grade visualizations  
 - **SQL** – Complex aggregations, queries, and insights  
 
-## Why This Project Stands Out
-
-- Transform raw web data into **insightful business intelligence**.  
-- Provides a **clear picture of revenue trends and growth patterns** across industries and regions.  
-- Ideal for **business analysts, data enthusiasts, and decision-makers** looking for data-driven strategies.  
-
 ## 📊 Visualizations & Insights
-
 - Top companies by revenue and growth  
 - Industry-wise revenue distribution  
 - Geographical revenue hotspots  
 - Trends in revenue growth for 2024-25  
-
-
 
